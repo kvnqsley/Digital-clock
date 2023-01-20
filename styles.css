@@ -1,0 +1,17 @@
+.clock{
+    height: 100vh;
+    background-color: black;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    color: aqua;
+padding: 5px;
+font-size: 4em;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+position: absolute;
+top:50%;
+letter-spacing: 8px;
+}
